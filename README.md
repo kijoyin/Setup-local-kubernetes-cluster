@@ -5,3 +5,4 @@
 3) Install and configure Ansible on WSL2 Ubuntu 20.04.2(https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-20-04)
 4) Server update - https://www.cyberciti.biz/faq/ansible-apt-update-all-packages-on-ubuntu-debian-linux/
 5)  ansible-playbook serverupdate.yml -u kiran --ask-become-pas  ----did not work
+6)  https://www.cyberciti.biz/faq/upgrade-update-ubuntu-using-terminal/ - Manually upgrade
