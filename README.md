@@ -7,3 +7,4 @@
 5)  ansible-playbook serverupdate.yml -u kiran --ask-become-pas  ----did not work
 6)  https://www.cyberciti.biz/faq/upgrade-update-ubuntu-using-terminal/ - Manually upgrade
 7)  Install k3s - https://computingforgeeks.com/install-kubernetes-on-ubuntu-using-k3s/
+8)  Helm sort of work with this - https://rancher.com/docs/k3s/latest/en/helm/
