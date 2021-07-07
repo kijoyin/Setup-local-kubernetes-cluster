@@ -6,3 +6,4 @@
 4) Server update - https://www.cyberciti.biz/faq/ansible-apt-update-all-packages-on-ubuntu-debian-linux/
 5)  ansible-playbook serverupdate.yml -u kiran --ask-become-pas  ----did not work
 6)  https://www.cyberciti.biz/faq/upgrade-update-ubuntu-using-terminal/ - Manually upgrade
+7)  Install k3s
